@@ -11,6 +11,17 @@
 Logger.prototype = {
     initialize: function() {
     },
+	
+	addLog: function(msg, logLevel) {
+		let finalMsg = ">>>>SNIAA log: "+msg;
+		if (logLevel === 1){
+			gs.warn(finalMsg);
+		} else if (logLevel === 2){
+			gs.error(finalMsg);
+		} else {
+			gs.info(finalMsg);
+		}
+	},
 
     type: 'Logger'
 };]]></script>
@@ -18,13 +29,13 @@ Logger.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-12 13:16:34</sys_created_on>
         <sys_id>4153b494936ab110ecfb367f3bba10ad</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Logger</sys_name>
         <sys_package display_value="SNIAA Framework" source="x_692302_sniaa">d5e02c1c93e6b110ecfb367f3bba1031</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="SNIAA Framework">d5e02c1c93e6b110ecfb367f3bba1031</sys_scope>
         <sys_update_name>sys_script_include_4153b494936ab110ecfb367f3bba10ad</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-12 13:16:34</sys_updated_on>
+        <sys_updated_on>2023-11-12 15:59:07</sys_updated_on>
     </sys_script_include>
 </record_update>
