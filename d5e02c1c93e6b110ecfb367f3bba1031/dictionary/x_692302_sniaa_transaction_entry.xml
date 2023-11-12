@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="aa22a850932ab110ecfb367f3bba10c3" label="Transaction Entry" max_length="40" name="x_692302_sniaa_transaction_entry" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="JSON Data" mandatory="true" max_length="4000" name="json_data" type="string"/>
+        <element attributes="encode_utf8=false" label="LookUp Entry" mandatory="true" max_length="32" name="lookup_entry" reference="x_692302_sniaa_lookup_entry" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Source ID" max_length="40" name="source_id" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="lookup_entry"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

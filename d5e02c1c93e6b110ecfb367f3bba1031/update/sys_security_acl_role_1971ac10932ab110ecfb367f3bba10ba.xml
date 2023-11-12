@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-12 11:58:10</sys_created_on>
+        <sys_id>1971ac10932ab110ecfb367f3bba10ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_692302_sniaa_lookup_entry.x_692302_sniaa.sniaa_developer</sys_name>
+        <sys_package display_value="SNIAA Framework" source="x_692302_sniaa">d5e02c1c93e6b110ecfb367f3bba1031</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNIAA Framework">d5e02c1c93e6b110ecfb367f3bba1031</sys_scope>
+        <sys_security_acl display_value="x_692302_sniaa_lookup_entry">dd71ac10932ab110ecfb367f3bba10b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1971ac10932ab110ecfb367f3bba10ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-12 11:58:10</sys_updated_on>
+        <sys_user_role display_value="x_692302_sniaa.sniaa_developer" name="x_692302_sniaa.sniaa_developer">cb01e410932ab110ecfb367f3bba1024</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
