@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="SNIAA Framework">2f522410932ab110ecfb367f3bba1033</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Transaction Entry</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>4</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-12 12:02:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f352ec50932ab110ecfb367f3bba10bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transaction Entry</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SNIAA Framework" source="x_692302_sniaa">d5e02c1c93e6b110ecfb367f3bba1031</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNIAA Framework">d5e02c1c93e6b110ecfb367f3bba1031</sys_scope>
+        <sys_update_name>sys_app_module_f352ec50932ab110ecfb367f3bba10bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-12 12:02:09</sys_updated_on>
+        <timeline_page/>
+        <title>Transaction Entry</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SNIAA Framework">d5e02c1c93e6b110ecfb367f3bba1031</application>
+        <file_path/>
+        <instance_id>29251944db02751405ef172913961990</instance_id>
+        <instance_name>dev188747</instance_name>
+        <name>sys_app_module_f352ec50932ab110ecfb367f3bba10bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="SNIAA Framework">2f522410932ab110ecfb367f3bba1033</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Transaction Entry</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>4</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-12 12:02:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f352ec50932ab110ecfb367f3bba10bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Transaction Entry</sys_name><sys_overrides/><sys_package display_value="SNIAA Framework" source="x_692302_sniaa">d5e02c1c93e6b110ecfb367f3bba1031</sys_package><sys_policy/><sys_scope display_value="SNIAA Framework">d5e02c1c93e6b110ecfb367f3bba1031</sys_scope><sys_update_name>sys_app_module_f352ec50932ab110ecfb367f3bba10bd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-12 12:02:09</sys_updated_on><timeline_page/><title>Transaction Entry</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>505390796</payload_hash>
+        <record_name>Transaction Entry</record_name>
+        <reverted_from/>
+        <source>d1e02c1c93e6b110ecfb367f3bba1033</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-12 12:02:09</sys_created_on>
+        <sys_id>ff52ec50932ab110ecfb367f3bba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18bc36922b10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-12 12:02:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3752ec50cf2ab11067c402536bc16dbe</update_guid>
+        <update_guid_history>3752ec50cf2ab11067c402536bc16dbe:505390796</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Transaction Entry">90c2a85c93e6b110ecfb367f3bba109f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-12 12:03:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2fd04d633aa74c8995f2610df7c955e1</sys_id>
+        <sys_metadata>f352ec50932ab110ecfb367f3bba10bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Transaction Entry</sys_name>
+        <sys_package display_value="SNIAA Framework" source="x_692302_sniaa">d5e02c1c93e6b110ecfb367f3bba1031</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SNIAA Framework">d5e02c1c93e6b110ecfb367f3bba1031</sys_scope>
+        <sys_scope_delete display_value="">3fe275d4303b434c914eb439356bf210</sys_scope_delete>
+        <sys_update_name>sys_app_module_f352ec50932ab110ecfb367f3bba10bd</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f352ec50932ab110ecfb367f3bba10bd">ff52ec50932ab110ecfb367f3bba10be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-12 12:03:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
